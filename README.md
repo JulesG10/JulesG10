@@ -4,7 +4,7 @@
 💻 Development on Windows
 
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julesG10&layout=compact&langs_count=18&hide=other&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julesG10&layout=compact&langs_count=18&theme=dark)
 
 🏴 Nationality: France 🇫🇷
 
